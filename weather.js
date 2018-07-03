@@ -1,6 +1,6 @@
 class Weather{
   constructor(city, state){
-    this.apikey = '5bd3681f84ca505e';
+    this.apikey = '*******'; // Register Application to get access to an API key 
     this.city = city;
     this.state =state;
   }
